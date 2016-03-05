@@ -30,7 +30,5 @@ group :development do
   gem 'spring'
 end
 
-group :doc do
-	gem 'sdoc', require: false
-end
+
 
